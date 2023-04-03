@@ -1,0 +1,12 @@
+.item-style {
+    position: relative;
+    /* box-shadow: 1px 2px 4px rgba(0, 0, 0, .5); */
+    padding: 10px;
+    background: white;
+    box-shadow: 3px 3px 6px rgb(105, 96, 96) !important;
+    /* max-width: 10px; */
+}
+
+.item-style:hover{
+    box-shadow: 3px 3px 6px rgb(247, 243, 243);
+}
